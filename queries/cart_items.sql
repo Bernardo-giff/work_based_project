@@ -11,12 +11,12 @@ select
   , vl_quantity_sell
   , vl_unit_price_purchase
   , vl_unit_price_sell
-  , order.status_label
-from prd.silver.stg_salesforce__cart_item cart_item
+  , order.ds_status_label
+from prd.gold.fct_cart_item cart_item
 left join prd.gold.fct_order order
 on cart_item.fk_order = order.pk_order
 
 where
   vl_unit_price_purchase > 0 
   or vl_unit_price_sell > 0
-  and status_label = 'Completed'
+  and ds_status_label = 'Completed'
