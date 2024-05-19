@@ -6,6 +6,7 @@ select
   , fk_material_alias
   , fk_material
   , ds_purchase_price_formula
+  , material.cd_alias_language
   , ds_sale_price_formula
   , vl_quantity_purchase
   , vl_quantity_sell
@@ -15,6 +16,8 @@ select
 from prd.gold.fct_cart_item cart_item
 left join prd.gold.fct_order order
 on cart_item.fk_order = order.pk_order
+left join prd.gold.dim_material material
+on cart_item.fk_material = material.pk_material
 
 where
   vl_unit_price_purchase > 0 
