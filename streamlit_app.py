@@ -4,6 +4,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
 
+st.write(open("markdowns/intro.md").read())
 st.image("images/materials_diagram.png")
 
 image = st.file_uploader("Upload an image", type=["jpg", "png"])
