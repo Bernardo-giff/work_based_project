@@ -8,7 +8,7 @@ st.image("images/materials_diagram.png")
 
 material = st.text_input("Enter the description of the material")
 
-path = "data/"
+path = "data_git/"
 
 # Check if files exist at the specified paths
 if not os.path.exists(os.path.join(path, 'materials.csv')):
