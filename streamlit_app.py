@@ -20,8 +20,8 @@ if not os.path.exists(os.path.join(path, 'material_desc.csv')):
     st.stop()
 
 # Load the data
-materials = pd.read_csv(os.path.join(path, 'materials.csv'))
-material_desc_df = pd.read_csv(os.path.join(path, 'material_desc.csv'))
+materials = pd.read_csv(path + 'materials.csv')
+material_desc_df = pd.read_csv(path + 'material_desc.csv')
 
 # Initialize the TfidfVectorizer 
 tfidf = TfidfVectorizer()
