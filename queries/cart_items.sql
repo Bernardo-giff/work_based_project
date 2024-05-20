@@ -6,7 +6,7 @@ select
   , cart_item.fk_material_alias
   , cart_item.fk_material
   , cart_item.ds_purchase_price_formula
-  , material.cd_alias_language
+  , LOWER(material.cd_alias_language) AS cd_alias_language
   , cart_item.ds_sale_price_formula
   , cart_item.vl_quantity_purchase
   , cart_item.vl_quantity_sell
