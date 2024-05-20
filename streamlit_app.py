@@ -1,11 +1,8 @@
 import streamlit as st
-# Import TfidfVectorizer
-from sklearn.feature_extraction.text import TfidfVectorizer
-from sklearn.metrics.pairwise import linear_kernel
 import os
 import pandas as pd
-
-st.write("Hello world")
+from sklearn.feature_extraction.text import TfidfVectorizer
+from sklearn.metrics.pairwise import linear_kernel
 
 st.image("images/materials_diagram.png")
 
@@ -13,9 +10,18 @@ material = st.text_input("Enter the description of the material")
 
 path = "data/"
 
+# Check if files exist at the specified paths
+if not os.path.exists(os.path.join(path, 'materials.csv')):
+    st.error("Materials data file not found.")
+    st.stop()
+
+if not os.path.exists(os.path.join(path, 'material_desc.csv')):
+    st.error("Material descriptions data file not found.")
+    st.stop()
+
 # Load the data
-materials = pd.read_csv(path + 'materials.csv')
-material_desc_df = pd.read_csv(path + 'material_desc.csv')
+materials = pd.read_csv(os.path.join(path, 'materials.csv'))
+material_desc_df = pd.read_csv(os.path.join(path, 'material_desc.csv'))
 
 # Initialize the TfidfVectorizer 
 tfidf = TfidfVectorizer()
