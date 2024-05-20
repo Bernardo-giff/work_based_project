@@ -6,6 +6,11 @@ from sklearn.metrics.pairwise import linear_kernel
 
 st.image("images/materials_diagram.png")
 
+image = st.file_uploader("Upload an image", type=["jpg", "png"])
+
+if image is not None:
+    st.image(image, caption='Uploaded Image.', use_column_width=True)
+
 material = st.text_input("Enter the description of the material")
 
 path = "data_git/"
