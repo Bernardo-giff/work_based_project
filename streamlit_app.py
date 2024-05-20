@@ -11,7 +11,7 @@ st.image("images/materials_diagram.png")
 
 material = st.text_input("Enter the description of the material")
 
-path = os.path.join(os.getcwd(), "data/")
+path = "data/"
 
 # Load the data
 materials = pd.read_csv(path + 'materials.csv')
