@@ -63,4 +63,7 @@ top_n_scores_df = pd.DataFrame({'product_id': top_n_scores, 'similarity_score': 
 # Merge with materials DataFrame to get material details
 result = pd.merge(top_n_scores_df, materials, on='product_id')
 
+# This single line of text with the df prints the table
 result
+
+material = st.text_input("Enter the formula used for this material")
