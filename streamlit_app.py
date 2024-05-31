@@ -3,14 +3,49 @@ import os
 import pandas as pd
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import linear_kernel
+from huggingface_hub import login
+import dotenv
 
 st.write(open("markdowns/intro.md").read())
 st.image("images/materials_diagram.png")
 
+dotenv.load_dotenv()
+
+token = os.getenv('PALIGEMMATOKEN')
+
+login(token=token, add_to_git_credential=True)
+
+from transformers import AutoProcessor, PaliGemmaForConditionalGeneration
+import requests
+import torch
+from PIL import Image
+
+# Select which model to use
+model_id = 'google/paligemma-3b-mix-224'
+
+
+# Setting up the initial model
+model = PaliGemmaForConditionalGeneration.from_pretrained(model_id)
+processor = AutoProcessor.from_pretrained(model_id)
+
 image = st.file_uploader("Upload an image", type=["jpg", "png"])
 
+prompt = 'Are there containers in the image?'
+
+# Code if image is uploaded
 if image is not None:
     st.image(image, caption='Uploaded Image.', use_column_width=True)
+    
+    # Convert image to PIL format
+    image = Image.open(image)
+    
+    # Generate the inputs
+    inputs = processor(prompt, image, return_tensors="pt")
+
+    # Generate the outputs
+    outputs = model.generate(**inputs, max_new_tokens=250)
+    # Print the outputs
+    st.write(prompt + " : " + processor.decode(outputs[0], skip_special_tokens=True)[len(prompt):])
 
 material = st.text_input("Enter the description of the material")
 
