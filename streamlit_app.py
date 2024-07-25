@@ -23,7 +23,6 @@ from PIL import Image
 # Select which model to use
 model_id = 'google/paligemma-3b-mix-224'
 
-
 # Setting up the initial model
 model = PaliGemmaForConditionalGeneration.from_pretrained(model_id)
 processor = AutoProcessor.from_pretrained(model_id)
