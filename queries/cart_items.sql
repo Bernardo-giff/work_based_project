@@ -1,25 +1,43 @@
-select 
-  cart_item.pk_cart_item
-  , cart_item.fk_order
-  , cart_item.ds_material_alias
-  , cart_item.ds_material
-  , cart_item.fk_material_alias
-  , cart_item.fk_material
-  , cart_item.ds_purchase_price_formula
-  , LOWER(material.cd_alias_language) AS cd_alias_language
-  , cart_item.ds_sale_price_formula
-  , cart_item.vl_quantity_purchase
-  , cart_item.vl_quantity_sell
-  , cart_item.vl_unit_price_purchase
-  , cart_item.vl_unit_price_sell
-  , order.ds_status_label
-from prd.gold.fct_cart_item cart_item
-left join prd.gold.fct_order order
-on cart_item.fk_order = order.pk_order
-left join prd.gold.dim_material material
-on cart_item.fk_material_alias = material.pk_material_alias
+WITH 
+    cart_items AS (
+        SELECT * FROM prd.gold.fct_cart_item
+        WHERE 
+            vl_quantity_sell > 0
+            AND vl_unit_price_sell > 0
+    )
 
-where
-  vl_unit_price_purchase > 0 
-  or vl_unit_price_sell > 0
-  and ds_status_label = 'Completed'
+    , orders AS (
+        SELECT * FROM prd.gold.fct_order
+        WHERE 
+            lower(ds_type_of_load) IN ('mixed', 'liquidation')
+            AND lower(ds_status_label) = 'completed'
+    )
+
+    , materials AS (
+        SELECT * FROM prd.silver.stg_salesforce__material
+    )
+
+    , aliases AS (
+        SELECT * FROM prd.silver.stg_salesforce__material_alias
+        INNER JOIN materials
+        ON fk_material = materials.pk_material
+    )
+
+    , final AS (
+        SELECT
+            cart_items.ds_sale_price_formula
+            , cart_items.ds_purchase_price_formula
+            , cart_items.ds_material_alias
+            , cart_items.vl_quantity_sell
+            , cart_items.vl_unit_price_sell
+            , lower(aliases.cd_alias_language) AS cd_alias_language
+            , cast(aliases.cd_product_id as int) as cd_product_id
+        FROM cart_items
+        INNER JOIN orders
+        ON cart_items.fk_order = orders.pk_order
+        INNER JOIN aliases
+        ON cart_items.fk_material_alias = aliases.pk_material_alias
+
+    )
+
+SELECT * FROM final
