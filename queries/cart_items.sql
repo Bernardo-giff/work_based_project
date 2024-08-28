@@ -32,6 +32,8 @@ WITH
             , cart_items.vl_unit_price_sell
             , lower(aliases.cd_alias_language) AS cd_alias_language
             , cast(aliases.cd_product_id as int) as cd_product_id
+            , lower(aliases.ds_category_en)
+            , lower(ds_record_type_name)
         FROM cart_items
         INNER JOIN orders
         ON cart_items.fk_order = orders.pk_order
