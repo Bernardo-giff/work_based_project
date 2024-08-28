@@ -30,10 +30,11 @@ WITH
             , cart_items.ds_material_alias
             , cart_items.vl_quantity_sell
             , cart_items.vl_unit_price_sell
+            , cart_items.fk_material
             , lower(aliases.cd_alias_language) AS cd_alias_language
-            , cast(aliases.cd_product_id as int) as cd_product_id
-            , lower(aliases.ds_category_en)
-            , lower(ds_record_type_name)
+            , cast(aliases.cd_product_id as int) AS cd_product_id
+            , lower(aliases.ds_category_en) AS ds_category_en
+            , lower(ds_record_type_name) AS ds_order_type
         FROM cart_items
         INNER JOIN orders
         ON cart_items.fk_order = orders.pk_order
