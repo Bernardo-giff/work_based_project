@@ -1,413 +1,413 @@
-product_id,material_name,material_category,default_english_alias
-10066,"Edelstahl, V2A Schrott, unrein",Stainless steel,"Stainless steel, V2a scrap, dirty"
-10134,"Zinn, unrein",Tin,"Tin, impure"
-10063,Alu-Riffelblech,Aluminium,Aluminium corrugated plate
-10083,Nickel-Legierung,Zinc,Nickel alloy
-10241,Kupfer-Späne unrein,Copper,"Copper turnings, dirty"
-10110,Messing-Patronenhülsen unrein,Yellow brass,"Brass cartridges, dirty"
-10198,Rotguss GBZ,Red brass,Tombac GBZ
-27735,"AlMgSi0.5 - Alu Stanzmaterial, blank",Aluminium,ALUMINUM SCRAP 4000/6000 SERIES
-10162,Elektro-Motoren - Low Grade,Electronics,Electric motors - low grade
-10090,Kupfer Anker,Electronics,Copper armature
-10010,"Zinklegierungen, behaftet",Zinc,"Zinc alloy, contaminated"
-10103,Gold coated aluminium plate,Aluminium,Gold coated aluminium plate
-11046,Copper-Red/White unclean 95% - with Plastic or Screw,Copper,Copper-red/white unclean 95% - with plastic or screw
-10008,Kupfer-Raff 85%,Copper,Low-grade copper 85%
-10174,Zamak,Zinc,Zamac
-10251,Tombak,Copper,Tombac
-10117,"Maschine, groß",Iron and steel,"Machines, large"
-31014,Edelstahl - 2.4851 (Alloy 601),Stainless steel,Stainless steel - 2.4851 (alloy 601)
-10115,Kupfer versilbert,Copper,Copper silver-plated
-10207,Aluminium 5083 Solids,Aluminium,Aluminium 5083 solids
-10093,Edelstahl - 1.4529,Stainless steel,Stainless steel - 1.4529
-10043,Kupfer-Blei-Kabel,Cables,Copper-lead cables
-10045,"Edelstahl, V2A Schrott, Nirosta, Späne",Stainless steel,"Stainless steel, V2a scrap, nirosta, turnings"
-10064,Erdkabel mit Bleimantel,Cables,Underground cables with lead shielding
-30013,"Aluminium, Whrought Aluminium 6xxx series 1, Sheets, Clean",Aluminium,AlMgSi bare sheets (6000-series)
-10116,Blei Granulat,Lead,Lead granules
-10040,"Zinn, mit 50% Blei",Tin,"Tin, with 50% lead"
-10046,"Edelstahl, V2A Schrott, Nirosta, Stanz",Stainless steel,"Stainless steel, V2a scrap, nirosta, punchings"
-10106,Power Distribution Box,Electronics,Power distribution box
-10119,Edelstahl - 1.4408,Stainless steel,Stainless steel - 1.4408
-10065,Gießharztrafos,Electronics,Cast resin transformers
-10143,USB-Hub,Electronics,USB hub
-10189,Hartmetall Späne,Tungsten carbide,Tungsten turnings
-10021,"Alu-Blitzableiterdraht, blank",Aluminium,"Aluminium lightning rod cable, bare"
-10018,"Alu-Walzplatten, blank",Aluminium,"Aluminium billets, bare"
-10031,Alu-Kabel 50%,Aluminium,Aluminium cable 50%
-10007,Kupfer-Eisen-Kühler,Copper,Copper-iron radiators
-10151,Edelstahl - 1.4509,Stainless steel,Stainless steel - 1.4509
-10214,"Gemischte Kupfer Elektrolytabfälle (99,97%Cu)",Copper,"Miscellaneous copper electrolyte waste (99,97%Cu)"
-10059,"Stecker, Au-haltig, mit Fe",Electronics,"Plugs containing Au, with Fe"
-10120,Edelstahl - 1.4462,Stainless steel,Stainless steel - 1.4462
-10032,Kupfer-Alu-Erdkabel,Cables,Copper-aluminium underground cables
-30011,AlMn Bleche Blank (3000er),Aluminium,AlMn bare sheets (3000-series)
-10099,"Kupferkabel, min. 82% Cu",Cables,"Copper Cable, min. 82% Cu"
-10135,Antenna Unit,Electronics,Antenna unit
-10086,Titan Späne,Stainless steel,Titanium turnings
-10062,Aluminium-Blech mit 50% Anhaftung,Aluminium,Aluminium sheet with 50% adhesives
-10128,"Copper, MS58, Sheets, Clean",Stainless steel,Bimetal
-10158,Aluminium mit Silber,Aluminium,Aluminium with silver
-10154,"Iron, Stainless steel - 2.4819, Solids, Bronze plating",Yellow brass,Steel-bronze alloy
-10157,Aluminium mit Kupfer,Aluminium,Aluminium with copper
-10159,"Zinn, mit 40% Blei",Tin,"Tin, with 40% lead"
-10160,Zinnpulver,Tin,Tin powder
-10168,Gitterbox,Iron and steel,Lattice box
-10172,"Aluminium, versilbert",Aluminium,"Aluminium, silver-plated"
-17967,Hartmetallstaub,Tungsten carbide,Tungsten dust
-10203,Aluminium 6082 baled,Aluminium,Aluminium 6082 bailed
-10204,Aluminium 6082 shredded,Aluminium,Aluminium 6082 shredded
-30027,Alu Bleche Beschichtet Luft- und Raumfahrtschrott (2- und 7000er),Aluminium,"Aluminium laquered sheets, aerospace scrap (2 and 7000-series)"
-30022,AlMn Bleche Beschichtet (3000er),Aluminium,AlMn laquered sheets (3000-series)
-30024,Alu Blech Beschichtet Speziallegierung (8000er),Aluminium,Aluminium laquered alloy sheet (8000-series)
-31001,"Iron, Stainless steel - 1.2714, Solids, Clean",Stainless steel,1.2714 tool steel (55NiCrMoV7)
-31022,Baustahl sauber,Iron and steel,"Structural steel, clean"
-31025,"Aluminium Ronden, Leg. 226er mit Fe",Aluminium,"Aluminium discs, 226 with iron"
-31026,Edelstahl - 1.4859,Stainless steel,Stainless steel - 1.4859
-31027,Edelstahl - 1.4855,Stainless steel,Stainless steel - 1.4855
-31031,"Aluminium, Whrought Aluminium 6xxx series 1, Profile, Oxidized (rusted)",Aluminium,Aluminium iso profiles with adhesives
-60001,Kupfer Raff Granulat,Copper,Low-grade copper granules
-31034,Cold rolled grain oriented electrical steel sheet in coil  (CRGO),Iron and steel,CRGO - Cold rolled grain oriented electrical steel sheet in coil
-10252,Bronzspäne,Copper,Brnze turnnigs
-31038,Stahlblech verzinkt,Iron and steel,"Steel sheets, clean"
-31056,"Copper, MS58, Wire, Clean",Yellow brass,Brass hair wier
-18037,"Edelstahl, V2A, Nirosta, Niro",Stainless steel,"Stainless steel, V2a, nirosta, niro"
-18061,E3 - Schwerschrott,Iron and steel,E3 - heavy scrap
-18025,"Kupfer, blank I, Millberry",Copper,"Bright copper, no 1, Millberry"
-18030,"Kupferkabel, min. 60% Cu",Cables,"Copper Cable, min. 60% Cu"
-18028,"Kupferkabel, min. 38% Cu",Cables,"Copper Cable, min. 38% Cu"
-18060,"E1 - Eisen und Stahl, Mischschrott",Iron and steel,"E1 - iron and steel, miscellaneous scrap"
-10003,Alu-Getriebe,Aluminium,Aluminium gears
-18034,Messing-Patronenhülsen,Yellow brass,Brass cartridges
-31017,Autopakete,Iron and steel,Car bundle
-18071,Geschirrzinn,Tin,Tableware tin
-10193,Aluminium Folie,Aluminium,BRIQUETTED ALUMINIUM CLEAN FOIL SCRAPS
-30002,"Kupfer Granulat 1a (99,9%)",Copper,"Copper granules 1a (99,9%)"
-30004,"Kupfer Granulat 2 (98,5%)",Copper,"Copper granules 2 (98,5%)"
-18032,"Copper, MS58, Solids, Clean",Yellow brass,"Brass MS58, new, pieces"
-21650,HM     Sägeblätter,Tungsten carbide,Tungsten carbide saw blades
-10118,Kupfer raff,Copper,Low-grade copper
-18076,ALU Chips TT,Aluminium,Aluminium chips
-10202,Messing Haardraht,Yellow brass,Brass hair wire
-19556,"Altblei weich, Weichblei",Lead,Scrap soft lead
-3010,Eisenspäne E5,Iron and steel,Iron turnings E5
-3011,Neuschrott leicht/schwer E8/E2 (Eisen),Iron and steel,New light/heavy scrap E8/E2 (iron)
-10016,"Aluminiumprofile, Shredderprofile",Aluminium,"Aluminium profiles, shredded profiles"
-18039,"Edelstahl, V4A Schrott",Stainless steel,"Stainless steel, V4a scrap"
-10148,Abfall,Aluminium,Refuse
-10206,Aluminium 7075 Solids,Aluminium,Aluminium 7075 solids
-18035,"Messing MS63, neu, stückig",Yellow brass,"Brass MS63, new, pieces"
-10025,Shreddermaterial,Iron and steel,FE Shredder material
-4060,Kupferstaub,Copper,Copper dust
-10217,Kupfer Granulat mit SN,Copper,Copper Granules with SN
-18038,"Iron, Stainless steel - 2.4819, Solids, Clean",Stainless steel,"Stainless steel, heat-resistant"
-18073,"Zink, alt",Zinc,"Zinc, old"
-10197,Trafos,Electronics,Transformers
-30003,"Kupfer Granulat 1b (99,5%)",Copper,"Copper granules 1b (99,5%)"
-10049,Chromstahl,Stainless steel,Chrome steel
-10072,Aluminium Shredder,Aluminium,"Aluminium, shredded"
-17966,Aludosen,Aluminium,Aluminium cans
-10129,Eisendraht,Iron and steel,Iron wire
-10220,Gussbronze Abfälle,Red brass,Cast bronze waste
-10175,Bremsscheiben,Iron and steel,Brake discs
-30005,"Copper, MS58, Turnings, Clean",Yellow brass,MS58 turnings
-30001,E-Cu Stanzabfälle,Copper,E-cu punchings
-10027,Scherenschrott,Iron and steel,Shearing scrap
-10089,Kupfer Späne,Copper,Copper turnings
-10061,"Edelstahl, legiert, behaftet",Stainless steel,"Stainless steel, alloyed, contaminated"
-10034,"Kupfer-Schienen, blank, ohne Anhaftungen",Copper,"Copper bars, bright, no adhesives"
-10070,"Aluminium, Cast Aluminium, Granules, Other contaminations",Iron and steel,Aluminium Shredder material
-10005,"Aluminium, Whrought Aluminium 6xxx series 1, Profile, Other contaminations",Aluminium,Aluminium extension profiles
-10055,Kupfer-Lackdraht,Copper,Copper enamelled wire
-10051,Kupfer-Spulen,Copper,Copper coils
-30052,Fe - Coils,Iron and steel,Iron - coils
-30053,Werkzeugstahl,Stainless steel,Tool steel
-30055,Aluminium - Coils,Aluminium,Aluminium - coils
-10211,"Aluminium Draht, blank",Aluminium,"Aluminium wire, bare"
-10078,Aluminiumlegierung,Aluminium,Aluminium alloy
-30014,AlZn Bleche Blank (7000er),Aluminium,AlZn bare sheets (7000-series)
-10209,Aluminium-Stahl-Seil,Aluminium,Aluminium and steel cable
-10194,Aluminium Briketts,Aluminium,Aluminium briquettes
-30030,AlMgSi1 Profile Blank,Aluminium,AlMgSi1 bare profile
-10091,"Iron, Stainless steel - 1.4828, Solids, Clean",Stainless steel,Stainless steel - 1.4828
-10124,Edelstahl - 1.4841,Stainless steel,Stainless steel - 1.4841
-10212,Elektromotoren - gross,Electronics,Electric motors - large
-30021,AlCu Bleche Beschichtet (2000er),Aluminium,AlCu coated sheets (2000-series)
-30016,Alu Bleche Blank Gemischte Legierung (1-8000er),Aluminium,"Aluminium bare sheets, miscellaneous alloys (1-8000-series)"
-10079,Eisenguss,Iron and steel,Cast iron
-10163,Edelstahl - 1.4162,Stainless steel,Stainless steel - 1.4162
-30010,AlCu Bleche Blank (2000er),Aluminium,AlCu bare sheets (2000-series)
-31012,"Gewebe, gemischt (Bronze Kettseil)",Iron and steel,"Fabric, miscellaneous (bronze warp cables)"
-10036,Alu-Kabel,Aluminium,Aluminium cable
-10074,"Copper, MS58, Water meter, Non-metallic attachments",Yellow brass,Brass - water pipes
-31018,Neusilber,Copper,Nickel silver
-10156,Altfahrzeug,Iron and steel,End-of-life vehicle
-30025,"Aluminium, Whrought Aluminium 6xxx series 1, Sheets, Other contaminations",Aluminium,"Aluminium laquered sheets, low-copper (3, 5 and 6000-series)"
-10002,Aluminium mit Fremdanhaftung,Aluminium,Aluminium wit other adhesives
-10071,"Edelstahl, V2A Schrott, Nirosta, leicht behaftet",Stainless steel,"Stainless steel, V2a scrap, nirosta, slightly contaminated"
-10024,"Kupferkabel, min. 55% Cu",Cables,"Copper Cable, min. 55% Cu"
-10166,Zinnbarren,Tin,Tin bars
-10150,Edelstahl - 1.4571,Stainless steel,Stainless steel - 1.4571
-10019,"Alu-Draht, ohne FE",Aluminium,"Aluminium cable, no iron"
-10200,Aluminium mit Bronze,Red brass,Aluminium with bronze
-10181,"Electronic scrap, Analog Electric meter, Component, Cased in plastic",Electronics,Mix metal scrap
-10218,Kupferspäne (Cu>95%),Copper,Copper turnings (Cu>95%)
-10033,Kupfer-Erdkabel,Cables,Copper underground cables
-10133,"Copper, MS58, Solids, Oxidized (rusted)",Yellow brass,Brass - contaminated
-31021,Al-Cu Radiatoren (28%Cu),Aluminium,AlCu radiators (28%cu)
-10161,Edelstahl - 1.4541,Stainless steel,Stainless steel - 1.4541
-10180,Stromzähler - Digital,Electronics,Electricity meter - digital
-10139,Module - Mixed Materials,Electronics,Modules - mixed materials
-11027,PCB-Power Board,Electronics,PCB - power board
-10111,Geschossblei,Lead,Bullet lead
-10038,Katalysator XS,Aluminium,Catalytic Converter XS
-10017,Titan,Stainless steel,Titanium
-10035,"Kupfer, verzinnt",Copper,"Copper, tin-plated"
-30012,AlMg Bleche Blank (5000er),Aluminium,Aluminum scrap
-10004,Alu-Kabel 60%,Aluminium,Aluminium cable 60%
-10127,Kupfer Verhüttung,Copper,Copper casing
-10155,"Kupferkabel, min. 40% Cu",Cables,"Copper Cable, min. 40% Cu"
-10075,Kupfer-Schälkabel,Cables,Copper from sheathed cables
-30029,"AlMgSi0,7 Profile Blank",Aluminium,AlMgSi0.7 blank profiles
-31074,Aluhülsen,Aluminium,Aluminium sleeve
-31082,"Copper, Copper chromium, Solids, Clean",Copper,CuCr1Zr (CW106C)
-90003,Alu Kabel mit Cu Schirm,Cables,Alu cable with Cu screen
-11055,Edelstahl - 1.4305,Stainless steel,Stainless - 1.4305
-11056,Edelstahl - 1.4057,Stainless steel,Stainless steel - 1.4057
-11057,Edelstahl - 1.4021,Stainless steel,Stainless steel - 1.4021
-18023,"Kupfer, blank II, Kerze",Copper,"Bright copper, no 2, sparkplugs"
-18024,"Kupfer, gemischt, Raff, alt",Copper,"Copper, miscellaneous, low-grade, old"
-18022,"Kupfer schwer, Berry min. 98% Cu",Copper,"Heavy copper, berry min. 98% Cu"
-18001,"Aluminium, Whrought Aluminium 6xxx series 1, Profile, Clean",Aluminium,"Aluminium profiles, bare (new)"
-31002,"Copper, MS58, Solids, Oxidized (rusted)",Yellow brass,"Brass cocks and faucets, contaminated"
-18015,Aluspäne,Aluminium,Aluminium turnings
-18069,Rotguss-Späne,Red brass,Tombac turnings
-18068,"Rotguss, stückig",Red brass,"Tombac, pieces"
-18002,"Aluminium, Whrought Aluminium 6xxx series 1, Profile, Lacquered",Aluminium,"Aluminium profiles, painted"
-18031,"Kupferkabel, min. 70% Cu",Cables,"Copper Cable, min. 70% Cu"
-18013,"Aluguss, neu",Aluminium,"Cast aluminium, new"
-18070,"Zinnschrott, Lötzinn",Tin,"Tin scrap, solder"
-18065,Bleibatterien,Electronics,Lead batteries
-18003,"Aluminium, gemischt",Aluminium,"Aluminium, miscellaneous"
-18036,"Copper, Brass 1, Solids, Other contaminations",Yellow brass,"Brass, miscellaneous"
-18029,Kupferkabel mit Stecker,Cables,Copper cable with plug
-18054,"CPU, Keramik, gemischt",CPU's,"CPU, ceramic, miscellaneous"
-18052,"CPU, Kunststoff, gemischt",CPU's,"CPU, plastic, miscellaneous"
-18053,"CPU, Kunststoff, behaftet",CPU's,"CPU, plastic, contaminated"
-19468,Slot-CPUs,CPU's,Slot cpus
-18020,"Hartmetall,     gemischt",Tungsten carbide,"Tungsten carbide, miscellaneous"
-18049,"Leiterplatten Klasse 1B, neu",PCBs,"Class 1B Circuit Boards, new"
-18046,Leiterplatten Klasse 2,PCBs,Class 2 circuit boards
-18045,Leiterplatten Klasse 3,PCBs,Class 3 circuit boards
-18014,"Aluguss, alt",Aluminium,"Cast aluminium, old"
-18033,"Copper, Brass 1, Turnings, Clean",Yellow brass,"Brass turnings, miscellaneous"
-18043,"Gold, Smart phone, Electronics, Cased in plastic",Phones,"Mobiles, smartphones"
-18006,"Alublech, alt, färbig",Aluminium,"Aluminium sheet, old, painted"
-18048,RAM mit Silber-Kontakten,PCBs,RAM with silver contacts
-18009,"Alu-Kühler, rein",Aluminium,"Aluminium-copper, clean"
-18055,Laufwerke,Pc components,Disc drives
-18056,Netzteile,Pc components,Power supplies
-18008,"Alu-Kupfer-Kühler, behaftet",Aluminium,"Aluminium-copper radiator, contaminated"
-18005,"Alublech, blank, neu",Aluminium,"Aluminium sheet, bare, new"
-18072,"Zinn, rein, min. 99%",Tin,"Tin, pure, min. 99%"
-18007,"Alu-Kupfer-Kühler, rein",Aluminium,"Aluminium-copper radiator, clean"
-18042,"Gold, Smart phone, Electronics, Cased in plastic",Phones,Mobile and smartphone circuit boards
-18011,"Alufelgen, sauber",Aluminium,"Aluminium rims, clean"
-31011,"Copper, MS58, Solids, Clean",Copper,"Fabric, miscellaneous (copper-brass)"
-18012,"Alufelgen, behaftet",Aluminium,"Aluminium rims, contaminated"
-18057,"PCs, unberaubt",Pc components,"PCs, unstripped"
-18059,"Elektronikschrott, gemischt",Electronics,"Electronic scrap, miscellaneous"
-18027,"Kupfer-Messing-Kühler, behaftet",Copper,"Copper-brass radiator, contaminated"
-18058,Elektromotoren,Electronics,Electric motors
-27733,Kleintrafos,Electronics,Small transformers
-21649,Silberkontakte,Electronics,Silver contacts
-18026,"Kupfer-Messing-Kühler, rein",Copper,"Copper-brass radiator, clean"
-18074,"Zink, neu",Zinc,"Zinc, new"
-18064,Kabelschälblei,Lead,Cable sheath lead
-21641,Alu-Offsetplatten,Aluminium,Aluminium offset plate
-18040,"Edelstahlspäne, Nirosta Späne",Stainless steel,"Stainless steel turnings, nirosta turnings"
-18051,RAM mit Gold-Kontakten,PCBs,RAM with gold contacts
-19465,Festplatten,Pc components,Hard drives
-18067,"Copper, MS58, Solids, Clean",Red brass,Copper alloy
-18050,"Leiterplatten Klasse 1A, alt",PCBs,"Class 1A Circuit Boards, old"
-18062,"Auswuchtblei, Wuchtgewichte",Lead,"Lead wheel weights, balancing weights"
-18047,Server Backplanes,PCBs,Server backplanes
-18018,"HSS, gemischt, Schnellarbeiterstahl",Tungsten carbide,"Hss, miscellaneous, high speed steel"
-18010,"Alu-Kühler, behaftet",Aluminium,"Aluminium-copper, contaminated"
-600000,"Aluminium, Whrought Aluminium 1100, Sheets, Lacquered",Aluminium,Aluminium license plates
-600001,"Iron, Miscellaneous steel, Solids, Clean",Iron and steel,Miscellaneous steel
-600033,"Iron, Stainless steel - 1.4404, Turnings, Clean",Stainless steel,"Stainless steel - 316 turnings, clean"
-600034,"Iron, Stainless steel - 1.4313, Solids, Clean",Iron and steel,"Stainless 1.4313 solids, clean"
-600035,"Copper, Milberry 4, Solids, Other contaminations",Copper,"Cliff (>95% Cu) solids, unclean"
-600036,"Aluminium, Cast Aluminium - 226, Turnings, Other contaminations",Aluminium,"Cast Aluminium 226 turnings, < 5% contamination"
-600037,"Aluminium, Cast Aluminium - 226, Turnings, Clean",Aluminium,"Cast Aluminium 226, Turnings, clean"
-600038,"Aluminium, Whrought Aluminium 2024 series, Turnings, Clean",Aluminium,"Wrought Aluminium 6010 turnings, clean"
-600039,"Aluminium, Wrought Aluminium - 6060, Profile, Clean",Aluminium,"Wrought Aluminium 6060 profiles, clean"
-600040,"Iron, Stainless steel - 1.4903, Solids, Clean",Stainless steel,"Stainless steel 1.4903, Solids, clean"
-600041,"Copper, Cupronickel, Solids, Clean",Copper,"Cupronickel solids, clean"
-600042,"Copper, Brass 1, Turnings, Other contaminations",Yellow brass,Brass turnings miscellaneous
-600044,"Aluminium, Cast Aluminium - AlSi7Mg, Turnings, Clean",Aluminium,Turnings AlSi7Mg
-600045,"Aluminium, Cast Aluminium - 99%, Sheets, Clean",Aluminium,Clean Sheets 99% Al.
-600048,"Copper, MS58, Solids, Other contaminations",Yellow brass,Honeybrass
-600049,"Aluminium, Whrought Aluminium 1050[45] series, Ingot, Cast iron coating",Aluminium,Aluminium 1050 clean ingots
-600050,"Iron, Stainless steel - 1.4404, Solids, Other contaminations",Stainless steel,V4A - Waste
-600051,"Copper, MS58, Pipes, Clean",Yellow brass,Brass pipes (M58 alloy)
-600052,"Copper, Milberry 4, Solids, Incinerated",Copper,Cliff (No 2 heavy copper unclean)
-600053,"Copper, MS63, Solids, Oxidized (rusted)",Yellow brass,MS63 Solids ols (oxidations)
-600054,"Copper, White brass, Solids, Clean",Yellow brass,White brass solids
-600055,"Lead, Unalloyed Lead, Solids, Other contaminations",Lead,Pb dirty
-600056,"Zinc, Pure Zinc, Sheets, Oxidized (rusted)",Zinc,Zinc sheets old
-600057,"Aluminium, Whrought Aluminium 1050[45] series, Wire, Clean",Aluminium,Aluminium wire 1050 clean
-600058,"Aluminium, Whrought Aluminium 1050[45] series, Wire, Oxidized (rusted)",Aluminium,"Aluminium wire 1050, oxidated"
-600059,"Copper, Milberry 2, Coil, Clean",Copper,"Copper tube coils, clean"
-600060,"Copper, Milberry 1, Overhead cable, Lacquered",Copper,Copper lacquered overhead cables
-600061,"Copper, RG-5, Solids, Clean",Copper,"RG-5 gun metal, solids, clean"
-600062,"Iron, Stainless steel - 1.4016, Solids, Other contaminations",Iron and steel,CrSt solids
-600063,"Iron, Stainless steel - 1.7225, Solids, Clean",Iron and steel,"Stainless steel 1.7225, solids, clean"
-600064,"Iron, Pig Iron, Ingot, Clean",Iron and steel,Pig Iron
-600065,"Aluminium, Wrought Aluminium 5754, Solids, Clean",Aluminium,"Wrought Aluminium 5754 solids, clean"
-600066,"Aluminium, Wrought Aluminium 1200, Wire, Clean",Aluminium,"Aluminium 1200 wire 99.5%, clean"
-600067,"Iron, Stainless steel - 1.7380, Tubes, Clean",Stainless steel,"Stainless steel 1.7380 tubes, clean"
-600068,"Iron, Stainless steel - 1.7335, Tubes, Clean",Stainless steel,"Stainless steel - 1.7335, tubes, clean"
-600069,"Iron, Stainless steel - 1.7715, Tubes, Clean",Stainless steel,"Stainless steel - 1.7715, tubes, clean"
-600070,"Iron, Stainless steel - 1.4922, Tubes, Clean",Stainless steel,"Stainless steel - 1.4922, tubes, clean"
-600071,"Iron, Stainless steel 15MO3, Tubes, Clean",Stainless steel,"Stainless steel - 15MO3, tubes, clean"
-600072,"Copper, Soudronic, Wire, Clean",Cables,Soudronic wire
-600073,"Stainless steel, Stainless - 1.4545, -, Clean",Stainless steel,Stainless steel - 1.4545
-600043,"Alu Späne, gemischte 5% tol.",Aluminium,Al. Turnings mix 5% tol.
-600047,Twire,Aluminium,Twire - BURNT FRAGMENTIZER ALUMINUM SCRAP (from Automobile Shredders)
-600074,"Aluminium, Whrought Aluminium 1020, Ingot, Clean",Aluminium,Aluminium P1020 Ingots
-600075,"Iron, E6, Packets, Clean",Iron and steel,Busheling
-600076,"Iron, 1.4501, Solids, Clean",Iron and steel,Duplex 1.4501
-600077,"Aluminium, Cast Aluminium - 99%, Granules, Clean",Aluminium,"Alu Granules 99,7%"
-600078,"Aluminium, Cast Aluminium - 99%, Wire, Clean",Aluminium,"Alu, wire 99,7%"
-600079,"Iron, Steel - 1.8928, Solids, Clean",Iron and steel,S690QL
-600080,"Aluminium, Wrought Aluminium - 6063, Profile, Clean",Aluminium,"Wrought Aluminium - 6063, profiles"
-600081,"Aluminium, Mixed alloy, Solids, Clean",Aluminium,Mixed Aluminium alloy
-600082,"Lead, Unalloyed Lead, Granules, Lead Coating",Lead,shot lead
-600083,"Aluminium, Wrought Aluminium - 6063, Billets, Clean",Aluminium,Alu 6063 - Billets
-600084,"Copper, Milberry 2, Battery, Clean",Copper,Clean copper foil
-600085,"Aluminium, Mixed alloy, Ingot, Clean",Aluminium,RSI Ingot
-600086,"Stainless steel, 1.4306, Pipes, Clean",Stainless steel,stainless steel 1.4306
-600087,"Iron, Stainless steel - 1.4301, Sheets, Clean",Stainless steel,Stainless steel - 304 sheets
-600088,"Iron, Stainless steel - 1.4016, Solids, Clean",Stainless steel,"Stainless steel - 1.4016, Solids"
-600089,"Iron, Stainless Steel - 1.4521, Solids, Clean",Stainless steel,Stainless Steel - 1.4521
-600090,"Iron, Stainless steel - 1.4571, Sheets, Clean",Iron and steel,"Stainless steel - 1.4571, sheets"
-600091,"Iron, Stainless steel - 1.4301, Precisely chopped trimmings, Clean",Stainless steel,"Stainless steel - 1.4301, Precisely chopped trimmings"
-600092,"Electrical machines, Compressors, Machine, Other adhesions",Iron and steel,Iron and steel remeltable compressor scrap
-600093,"Aluminium, -, Profile, Other contaminations",Aluminium,Alu profiles mixed with iron 15%
-600094,"Copper, Whrought Aluminium 6262 series, Solids, Clean",Yellow brass,Aluminiumbronze
-600095,"Copper, Phosphor bronze - CuSn12, Solids, Clean",Yellow brass,Gear Bronz
-600096,"Copper, copper 99.9%, Wire, Lacquered",Copper,copper enamelled wire with paper
-600097,"Aluminium, Mixed alloy, Granules, Cased in Aluminium",Aluminium,ALU 70% +-5%  / REGRANULAT / SCHUPPEN
-600098,"Aluminium, Cast Aluminium - 226, Ingot, Clean",Aluminium,226 ingots
-600099,"Silver, Silver Bromide (AgBr), Sheets, Cased in plastic",,X-ray films
-600100,"Iron, Stainless steel - 1.2080, Solids, Clean",Stainless steel,Stainless steel - 1.2080
-600101,"Iron, Stainless steel - 1.2083, Solids, Clean",Stainless steel,Stainless steel - 1.2083
-600102,"Aluminium, Wrought Aluminium 5754, Bailed, Clean",Aluminium,"AlMg3, Bails, Clean"
-600103,"Aluminium, Whrought Aluminium 1050[45] series, Bailed, Clean",Aluminium,"Al99,5 Bails, Clean"
-600104,"Aluminium, Wrought Alumunium 3005, Bailed, Clean",Aluminium,"AlMn1Mg0,5 Bailed, Clean"
-600105,"Copper, Berry/Candy, Wire, Oxidized (rusted)",Copper,Berry/Candy
-600106,"Iron, Stainless steel - 1.4307, Solids, Clean",Stainless steel,Stainless steel 1.4307
-600107,"Copper, Eco Brass , Turnings, Clean",Yellow brass,Eco Brass Turnings
-600108,"Aluminium, Wrought Aluminium - 6060, Turnings, Clean",Aluminium,Aluminium 6060 turnings
-600109,"Copper, Miscellaneous copper, Bailed, Cased in Aluminium",Copper,Heat exchanger
-600110,"Stainless steel, Edelstahl - 1.3981, Punchings, Clean",Stainless steel,Stainless steel 1.3981
-600111,"Copper, Milberry 3, Granules, Other contaminations",Copper,Copper Berry Granules
-600112,"Iron, E2+E8 Iron, Sheets, Clean",Iron and steel,E2 + E8 Iron Sheets
-600113,"Aluminium, 5xxxer/6xxxer Mix, Sheets, Clean",Aluminium,5er/6er clean sheets
-600114,"Tungsten, Hartmetall mit Fe, Solids, Clean",Tungsten carbide,Tungsten carbide with Iron
-600116,"Iron, FeCu18, Sheets, Copper plating",Iron and steel,Iron sheet with Cu Coating 18%
-600117,"Aluminium, Whrought Aluminium 6082 series, Solids, Clean",Aluminium,Aluminium 6082 solids
-600118,"Aluminium, Pure aluminium, Sheets, Cased in paper",Aluminium,Aluminium offset plates with paper
-600119,"Copper, copper 99.9%, Granules Fine, Clean",Copper,"Fine Copper Granules 1a, 99.9%"
-600120,"Copper, Brass 1, Punchings, Tin coating",Copper,Brass tin plated
-600121,"Copper, Brass 1, Solids, Clean",Copper,"Yellow Brass, Clean"
-600122,"Copper, Phosphor bronze - CuSn12, Waste, Clean",Copper,Bronze
-600140,"Copper, Milberry 3, Solids, cased in zinc",Copper,Copper Zinc coated
-600142,"Copper, Milberry 3, Solids, cased in zinc",Copper,Copper Zinc coated
-600141,"Copper, Milberry 3, Solids, cased in zinc",Copper,Copper Zinc coated
-600143,"Nickel, Nickel Alloy, Waste, Clean",Stainless steel,Silverin400
-600144,"Nickel, Silverin500, Waste, Clean",Stainless steel,Silverin500
-600145,"Iron, FeNi18Cr12, Waste, Clean",Stainless steel,FeNi18Cr12
-600146,"Iron, FeNi22Cr3, Waste, Clean",Stainless steel,FeNi22Cr3
-600147,"Aluminium, 6111, Punchings, Clean",Aluminium,6111 alloy aluminium
-600148,"Iron, Cast Iron, Punchings, Cased in copper",Iron and steel,Copper-plated punch steel
-600149,"Iron, Steel - 1.8928, Punchings, Clean",Iron and steel,Low manganese punch steel (Steel - 1.8928)
-600150,"Iron, Carbon steel, Punchings, Tin coating",Iron and steel,Tin-plated punch steel
-600152,"Iron, Old Scrap (E1) 1, Clippings, Clean",Iron and steel,Shear scrap E1
-600151,"Iron, Carbon steel, Punchings, Coated in Zinc",Iron and steel,Galvanized punch steel
-600153,"Iron, Stainless steel - 1.4016, Punchings, Clean",Iron and steel,17% chromium punch
-600155,"Copper, Berry/Candy, Punchings, Clean",Copper,Blank copper punchings
-600156,"Copper, Berry/Candy, Punchings, Coated in Tin",Copper,Tin-plated copper punchings
-600157,"Copper composites, Cu 2% Fe, Punchings, Clean",Copper,Copper punchings with 2% iron
-600158,"Copper composites, Cu 3% Fe, Punchings, Clean",Copper,Copper punchings with 3% iron
-600159,"Copper, Brass , Wire, Clean",Copper,Brass EDM Wire
-600185,"Iron, Stainless steel - 1.5231, Solids, Oxidized (rusted)",Stainless steel,Stainless steel - EN 1.5231
-600184,"Iron, Stainless steel - 1.5231, Solids, Oxidized (rusted)",Iron and steel,Stainless steel - EN 1.5231
-600177,"Iron, Stainless steel - 1.6368, Solids, Oxidized (rusted)",Iron and steel,Stainless steel - EN 1.6368
-600186,"Copper, CuSn6 Bronze, Clippings, Clean",Red brass,Bronze CuSn6
-600189,"Iron, Carbon steel, Punchings, Clean",Iron and steel,Low manganese punch steel (Carbon steel)
-600187,"Copper, CuCrZr - C18150, Solids, Clean",Copper,CuCrZr - Copper-Chromium-Zirconium
-600188,"Iron, Manganese steel, Punchings, Clean",Iron and steel,High manganese punch steel (over 0.3%)
-600191,"Copper, Ms85, Solids, Clean",Yellow brass,Ms85 brass alloy
-600190,"Iron, MIscellaneous iron, Solids, Coated in Zinc",Iron and steel,Fe scrap galvanized
-600192,"Iron, Carbon steel, Punchings, Cased in copper",Iron and steel,"Steel Stamping scrap, copper coated PHC"
-600193,"Copper, CuTeP, Solids, Clean",Copper,CuTeP - Low alloyed copper tellerium
-600194,"Iron, E2, Sheets, Cased in zinc",Iron and steel,Steel Sheets - Galvanized
-600195,"Iron, E2+E8 Iron, Punchings, Laminated",Iron and steel,Production iron punchings (E2 / E8) Laminated
-600196,"Iron, Stainless steel 1.4006, Solids, Clean",Stainless steel,Stainless Steel 410
-600197,"Iron, 1.5415, Pipes, Clean",Iron and steel,1.5415
-600198,"Iron, Low alloyed 1.6578, Solids, Clean",Iron and steel,low alloyed 1.6578
-600199,"Iron, Low alloyed shavings, Shavings, Clean",Iron and steel,Low alloyed shavings
-600200,"Copper, Berry - 99.8% Cu, Foil, Clean",Copper,Copper 99.8%
-600201,"Iron, Stainless steel - 1.4310, -, Clean",Stainless steel,Stainless steel 1.4310
-600202,"Iron, Stainless steel - 1.1231, Solids, Clean",Stainless steel,Stainless Steel 1.1231
-600203,"Iron, Stainless Steel - 15-7, Solids, Clean",Stainless steel,Stainless Steel 15-7
-600204,"Iron, Stainless steel - 1.4404, Sheets, Clean",Stainless steel,Stainless steel 1.4404
-600205,"Iron, Stainless steel 1.4401, -, Clean",Stainless steel,Stainless steel 1.4401
-600206,"Iron, E2, Punchings, Clean",Iron and steel,Mix Dc01 and Dx51 punchings
-600207,"Aluminium, Mixed alloy, Component, Clean",Aluminium,Aluminium bulk scrap
-600208,"Aluminium, Mixed alloy, Component, Other adhesions",Aluminium,Aluminium Pistons
-600209,"Aluminium, Mixed alloy, Component, Cased in plastic",Aluminium,Aluminium with Rubber
-600210,"Iron, E2+E8 Iron, Punchings, Clean",Iron and steel,DC04 Punchings
-600211,"Copper, copper 99.9%, Rod , Clean",Copper,Copper Rod
-600212,"Aluminium, Whrought Aluminium 1050[45] series, Aerosol , Clean",Aluminium,"Aeorosole cans, clean"
-600213,"Aluminium, Whrought Aluminium 1050[45] series, Aerosol , Lacquered",Aluminium,"Aerosol cans, painted"
-600215,"Copper, copper 99.9%, Sheets, Clean",Copper,Cathode
-600216,"Aluminium, Whrought Aluminium 1050[45] series, Dust, Clean",Aluminium,Aluminium Dust
-600217,"Iron, Vascomax, Shavings, Clean",Stainless steel,Vascomax
-600115,"Iron, FeCu18, Sheets, Copper plating",Iron and steel,Steel sheet with Cu Coating 18%
-600214,"Aluminium, Cast Aluminium - 99%, Desox, Clean",Aluminium,Aluminium Deoxidant
-600218,"Iron, E8, Punchings, Clean",Iron and steel,Electrical Steel
-600219,"Copper, Milberry 1, Rod , Lacquered",Copper,Copper Busbars enameled
-600253,"Stainless steel, 1.4313, Briquettes, Clean",Stainless steel,1.4313 briquettes
-600252,"Stainless steel, 1.4313, Shavings, Clean",Stainless steel,1.4313 shavings
-600254,"Stainless steel, 1.4301, Ingot, Clean",Stainless steel,Stainless steel ingots
-600255,"Iron, E2+E8 Iron, Punchings, Coated in Zinc",Iron and steel,"metal punching waste, galvanized, low manganese"
-600256,"Iron, E2+E8 Iron, Punchings, Other contaminations",Iron and steel,Si punching waste/chipping scrap
-600257,"Copper, CuFe0,1, Punchings, Clean",Copper,"CuFe0,1"
-600260,"Copper, CuFe 2P, Punchings, Silver plating",Copper,CuFe 2P clean - AG
-600258,"Copper, CuFe0,1, Punchings, Silver plating",Copper,"CuFe0,1 - AG"
-600259,"Copper, CuFe 2P, Punchings, Clean",Copper,CuFe 2P clean
-600261,"Copper, Milberry 1, Punchings, Cast iron coating",Copper,ECU punching waste with FE
-600262,"Copper, copper 99.9%, Wire, Coated in Tin",Copper,"Copper hair wire, tinned"
-600263,"Copper, Brass CuZn15, Solids, Clean",Yellow brass,Brass CuZn15
-600264,"Iron, E8, Sheets, Coated in Zinc",Iron and steel,New galvanized sheets (iron scrap E8)
-600266,"Non-metal, Non-metal, Non-metal, Non-metallic attachments",,Container
-600265,"Non-metal, Non-metal, Non-metal, Clean",,General Container
-600268,"Iron, E2+E8 Iron, Punchings, Coated in Nickel",Iron and steel,Iron and Steel Punchings coated in Nickel
-600267,"Iron, E2, Punchings, Copper plating",Iron and steel,Iron Steel Coated in Copper
-600269,"Iron, MIscellaneous iron, Waste, Non-metallic attachments",Iron and steel,Mixed Scrap
-600270,"Copper, copper 99.9%, Busbars, Cased in plastic",Copper,Copper contacts
-600271,"Copper, MS63, Punchings, Cased in Tin",Yellow brass,MS63 tinned
-600272,"Copper, CuFeP - C19210, Punchings, Clean",,CuFeP punchings clean
-600273,"Aluminium, Aluminium 1370, Sheets, Clean",,Aluminium 1370
-600274,"Non-metal, Non-metal, Non-metal, Wood",,Wood
-30020,Rein-Alu Bleche Beschichtet (1000er),Aluminium,
-31076,"Edelstahl, V2A - Pakete",Stainless steel,
-32220,Aluminium Späne Bricketts (7000er),Aluminium,
-18017,Hartmetall Wendeschneidplatten,Tungsten carbide,
-18019,Hartmetall Bohrer und Fräser,Tungsten carbide,
-31004,Aluminiumbronze,Aluminium,
-31020,Zusatzmenge,Copper,
+product_id,material_name,material_category,default_english_alias,color,aspect,shape
+10066,"Edelstahl, V2A Schrott, unrein",Stainless steel,"Stainless steel, V2a scrap, dirty",,,
+10134,"Zinn, unrein",Tin,"Tin, impure",3,,
+10063,Alu-Riffelblech,Aluminium,Aluminium corrugated plate,3,,
+10083,Nickel-Legierung,Zinc,Nickel alloy,,,
+10241,Kupfer-Späne unrein,Copper,"Copper turnings, dirty",1,2,4
+10110,Messing-Patronenhülsen unrein,Yellow brass,"Brass cartridges, dirty",,,
+10198,Rotguss GBZ,Red brass,Tombac GBZ,,,
+27735,"AlMgSi0.5 - Alu Stanzmaterial, blank",Aluminium,ALUMINUM SCRAP 4000/6000 SERIES,3,,
+10162,Elektro-Motoren - Low Grade,Electronics,Electric motors - low grade,,,
+10090,Kupfer Anker,Electronics,Copper armature,,,
+10010,"Zinklegierungen, behaftet",Zinc,"Zinc alloy, contaminated",,,
+10103,Gold coated aluminium plate,Aluminium,Gold coated aluminium plate,3,,
+11046,Copper-Red/White unclean 95% - with Plastic or Screw,Copper,Copper-red/white unclean 95% - with plastic or screw,1,2,4
+10008,Kupfer-Raff 85%,Copper,Low-grade copper 85%,1,2,4
+10174,Zamak,Zinc,Zamac,,,
+10251,Tombak,Copper,Tombac,1,1,4
+10117,"Maschine, groß",Iron and steel,"Machines, large",3,,
+31014,Edelstahl - 2.4851 (Alloy 601),Stainless steel,Stainless steel - 2.4851 (alloy 601),,,
+10115,Kupfer versilbert,Copper,Copper silver-plated,1,3,2
+10207,Aluminium 5083 Solids,Aluminium,Aluminium 5083 solids,3,,
+10093,Edelstahl - 1.4529,Stainless steel,Stainless steel - 1.4529,,,
+10043,Kupfer-Blei-Kabel,Cables,Copper-lead cables,,,
+10045,"Edelstahl, V2A Schrott, Nirosta, Späne",Stainless steel,"Stainless steel, V2a scrap, nirosta, turnings",,,
+10064,Erdkabel mit Bleimantel,Cables,Underground cables with lead shielding,,,
+30013,"Aluminium, Whrought Aluminium 6xxx series 1, Sheets, Clean",Aluminium,AlMgSi bare sheets (6000-series),3,,1
+10116,Blei Granulat,Lead,Lead granules,,,
+10040,"Zinn, mit 50% Blei",Tin,"Tin, with 50% lead",3,,
+10046,"Edelstahl, V2A Schrott, Nirosta, Stanz",Stainless steel,"Stainless steel, V2a scrap, nirosta, punchings",,,
+10106,Power Distribution Box,Electronics,Power distribution box,,,
+10119,Edelstahl - 1.4408,Stainless steel,Stainless steel - 1.4408,,,
+10065,Gießharztrafos,Electronics,Cast resin transformers,,,
+10143,USB-Hub,Electronics,USB hub,,,
+10189,Hartmetall Späne,Tungsten carbide,Tungsten turnings,3,,
+10021,"Alu-Blitzableiterdraht, blank",Aluminium,"Aluminium lightning rod cable, bare",3,,
+10018,"Alu-Walzplatten, blank",Aluminium,"Aluminium billets, bare",3,,
+10031,Alu-Kabel 50%,Aluminium,Aluminium cable 50%,3,,
+10007,Kupfer-Eisen-Kühler,Copper,Copper-iron radiators,1,1,4
+10151,Edelstahl - 1.4509,Stainless steel,Stainless steel - 1.4509,,,
+10214,"Gemischte Kupfer Elektrolytabfälle (99,97%Cu)",Copper,"Miscellaneous copper electrolyte waste (99,97%Cu)",1,1,5
+10059,"Stecker, Au-haltig, mit Fe",Electronics,"Plugs containing Au, with Fe",,,
+10120,Edelstahl - 1.4462,Stainless steel,Stainless steel - 1.4462,,,
+10032,Kupfer-Alu-Erdkabel,Cables,Copper-aluminium underground cables,,,
+30011,AlMn Bleche Blank (3000er),Aluminium,AlMn bare sheets (3000-series),3,,1
+10099,"Kupferkabel, min. 82% Cu",Cables,"Copper Cable, min. 82% Cu",,,
+10135,Antenna Unit,Electronics,Antenna unit,,,
+10086,Titan Späne,Stainless steel,Titanium turnings,,,
+10062,Aluminium-Blech mit 50% Anhaftung,Aluminium,Aluminium sheet with 50% adhesives,3,,3
+10128,"Copper, MS58, Sheets, Clean",Stainless steel,Bimetal,,,
+10158,Aluminium mit Silber,Aluminium,Aluminium with silver,3,,
+10154,"Iron, Stainless steel - 2.4819, Solids, Bronze plating",Yellow brass,Steel-bronze alloy,,,
+10157,Aluminium mit Kupfer,Aluminium,Aluminium with copper,3,,
+10159,"Zinn, mit 40% Blei",Tin,"Tin, with 40% lead",3,,
+10160,Zinnpulver,Tin,Tin powder,3,,
+10168,Gitterbox,Iron and steel,Lattice box,3,,
+10172,"Aluminium, versilbert",Aluminium,"Aluminium, silver-plated",3,,
+17967,Hartmetallstaub,Tungsten carbide,Tungsten dust,3,,
+10203,Aluminium 6082 baled,Aluminium,Aluminium 6082 bailed,3,,
+10204,Aluminium 6082 shredded,Aluminium,Aluminium 6082 shredded,3,,
+30027,Alu Bleche Beschichtet Luft- und Raumfahrtschrott (2- und 7000er),Aluminium,"Aluminium laquered sheets, aerospace scrap (2 and 7000-series)",3,,3
+30022,AlMn Bleche Beschichtet (3000er),Aluminium,AlMn laquered sheets (3000-series),3,,3
+30024,Alu Blech Beschichtet Speziallegierung (8000er),Aluminium,Aluminium laquered alloy sheet (8000-series),3,,3
+31001,"Iron, Stainless steel - 1.2714, Solids, Clean",Stainless steel,1.2714 tool steel (55NiCrMoV7),,,
+31022,Baustahl sauber,Iron and steel,"Structural steel, clean",3,,
+31025,"Aluminium Ronden, Leg. 226er mit Fe",Aluminium,"Aluminium discs, 226 with iron",3,,
+31026,Edelstahl - 1.4859,Stainless steel,Stainless steel - 1.4859,,,
+31027,Edelstahl - 1.4855,Stainless steel,Stainless steel - 1.4855,,,
+31031,"Aluminium, Whrought Aluminium 6xxx series 1, Profile, Oxidized (rusted)",Aluminium,Aluminium iso profiles with adhesives,3,,
+60001,Kupfer Raff Granulat,Copper,Low-grade copper granules,1,2,5
+31034,Cold rolled grain oriented electrical steel sheet in coil  (CRGO),Iron and steel,CRGO - Cold rolled grain oriented electrical steel sheet in coil,3,,1
+10252,Bronzspäne,Copper,Brnze turnnigs,1,1,4
+31038,Stahlblech verzinkt,Iron and steel,"Steel sheets, clean",3,,1
+31056,"Copper, MS58, Wire, Clean",Yellow brass,Brass hair wier,,,
+18037,"Edelstahl, V2A, Nirosta, Niro",Stainless steel,"Stainless steel, V2a, nirosta, niro",,,
+18061,E3 - Schwerschrott,Iron and steel,E3 - heavy scrap,3,,
+18025,"Kupfer, blank I, Millberry",Copper,"Bright copper, no 1, Millberry",1,1,1
+18030,"Kupferkabel, min. 60% Cu",Cables,"Copper Cable, min. 60% Cu",,,
+18028,"Kupferkabel, min. 38% Cu",Cables,"Copper Cable, min. 38% Cu",,,
+18060,"E1 - Eisen und Stahl, Mischschrott",Iron and steel,"E1 - iron and steel, miscellaneous scrap",3,,
+10003,Alu-Getriebe,Aluminium,Aluminium gears,3,,
+18034,Messing-Patronenhülsen,Yellow brass,Brass cartridges,,,
+31017,Autopakete,Iron and steel,Car bundle,3,,
+18071,Geschirrzinn,Tin,Tableware tin,3,,
+10193,Aluminium Folie,Aluminium,BRIQUETTED ALUMINIUM CLEAN FOIL SCRAPS,3,,
+30002,"Kupfer Granulat 1a (99,9%)",Copper,"Copper granules 1a (99,9%)",1,1,5
+30004,"Kupfer Granulat 2 (98,5%)",Copper,"Copper granules 2 (98,5%)",1,1,5
+18032,"Copper, MS58, Solids, Clean",Yellow brass,"Brass MS58, new, pieces",,,
+21650,HM     Sägeblätter,Tungsten carbide,Tungsten carbide saw blades,3,,
+10118,Kupfer raff,Copper,Low-grade copper,1,2,4
+18076,ALU Chips TT,Aluminium,Aluminium chips,3,,
+10202,Messing Haardraht,Yellow brass,Brass hair wire,,,
+19556,"Altblei weich, Weichblei",Lead,Scrap soft lead,,,
+3010,Eisenspäne E5,Iron and steel,Iron turnings E5,3,,
+3011,Neuschrott leicht/schwer E8/E2 (Eisen),Iron and steel,New light/heavy scrap E8/E2 (iron),3,,
+10016,"Aluminiumprofile, Shredderprofile",Aluminium,"Aluminium profiles, shredded profiles",3,,
+18039,"Edelstahl, V4A Schrott",Stainless steel,"Stainless steel, V4a scrap",,,
+10148,Abfall,Aluminium,Refuse,3,,
+10206,Aluminium 7075 Solids,Aluminium,Aluminium 7075 solids,3,,
+18035,"Messing MS63, neu, stückig",Yellow brass,"Brass MS63, new, pieces",,,
+10025,Shreddermaterial,Iron and steel,FE Shredder material,3,,
+4060,Kupferstaub,Copper,Copper dust,1,1,5
+10217,Kupfer Granulat mit SN,Copper,Copper Granules with SN,1,2,5
+18038,"Iron, Stainless steel - 2.4819, Solids, Clean",Stainless steel,"Stainless steel, heat-resistant",,,
+18073,"Zink, alt",Zinc,"Zinc, old",,,
+10197,Trafos,Electronics,Transformers,,,
+30003,"Kupfer Granulat 1b (99,5%)",Copper,"Copper granules 1b (99,5%)",1,1,5
+10049,Chromstahl,Stainless steel,Chrome steel,,,
+10072,Aluminium Shredder,Aluminium,"Aluminium, shredded",3,,
+17966,Aludosen,Aluminium,Aluminium cans,3,,
+10129,Eisendraht,Iron and steel,Iron wire,3,,
+10220,Gussbronze Abfälle,Red brass,Cast bronze waste,,,
+10175,Bremsscheiben,Iron and steel,Brake discs,3,,
+30005,"Copper, MS58, Turnings, Clean",Yellow brass,MS58 turnings,,,
+30001,E-Cu Stanzabfälle,Copper,E-cu punchings,1,1,5
+10027,Scherenschrott,Iron and steel,Shearing scrap,3,,
+10089,Kupfer Späne,Copper,Copper turnings,1,1,4
+10061,"Edelstahl, legiert, behaftet",Stainless steel,"Stainless steel, alloyed, contaminated",,,
+10034,"Kupfer-Schienen, blank, ohne Anhaftungen",Copper,"Copper bars, bright, no adhesives",1,1,3
+10070,"Aluminium, Cast Aluminium, Granules, Other contaminations",Iron and steel,Aluminium Shredder material,3,,
+10005,"Aluminium, Whrought Aluminium 6xxx series 1, Profile, Other contaminations",Aluminium,Aluminium extension profiles,3,,
+10055,Kupfer-Lackdraht,Copper,Copper enamelled wire,1,1,1
+10051,Kupfer-Spulen,Copper,Copper coils,1,1,2
+30052,Fe - Coils,Iron and steel,Iron - coils,3,,
+30053,Werkzeugstahl,Stainless steel,Tool steel,,,
+30055,Aluminium - Coils,Aluminium,Aluminium - coils,3,,
+10211,"Aluminium Draht, blank",Aluminium,"Aluminium wire, bare",3,,
+10078,Aluminiumlegierung,Aluminium,Aluminium alloy,3,,
+30014,AlZn Bleche Blank (7000er),Aluminium,AlZn bare sheets (7000-series),3,,1
+10209,Aluminium-Stahl-Seil,Aluminium,Aluminium and steel cable,3,,
+10194,Aluminium Briketts,Aluminium,Aluminium briquettes,3,,
+30030,AlMgSi1 Profile Blank,Aluminium,AlMgSi1 bare profile,3,,
+10091,"Iron, Stainless steel - 1.4828, Solids, Clean",Stainless steel,Stainless steel - 1.4828,,,
+10124,Edelstahl - 1.4841,Stainless steel,Stainless steel - 1.4841,,,
+10212,Elektromotoren - gross,Electronics,Electric motors - large,,,
+30021,AlCu Bleche Beschichtet (2000er),Aluminium,AlCu coated sheets (2000-series),3,,3
+30016,Alu Bleche Blank Gemischte Legierung (1-8000er),Aluminium,"Aluminium bare sheets, miscellaneous alloys (1-8000-series)",3,,1
+10079,Eisenguss,Iron and steel,Cast iron,3,,
+10163,Edelstahl - 1.4162,Stainless steel,Stainless steel - 1.4162,,,
+30010,AlCu Bleche Blank (2000er),Aluminium,AlCu bare sheets (2000-series),3,,1
+31012,"Gewebe, gemischt (Bronze Kettseil)",Iron and steel,"Fabric, miscellaneous (bronze warp cables)",3,,
+10036,Alu-Kabel,Aluminium,Aluminium cable,3,,
+10074,"Copper, MS58, Water meter, Non-metallic attachments",Yellow brass,Brass - water pipes,,,
+31018,Neusilber,Copper,Nickel silver,2,1,4
+10156,Altfahrzeug,Iron and steel,End-of-life vehicle,3,,
+30025,"Aluminium, Whrought Aluminium 6xxx series 1, Sheets, Other contaminations",Aluminium,"Aluminium laquered sheets, low-copper (3, 5 and 6000-series)",3,,3
+10002,Aluminium mit Fremdanhaftung,Aluminium,Aluminium wit other adhesives,3,,
+10071,"Edelstahl, V2A Schrott, Nirosta, leicht behaftet",Stainless steel,"Stainless steel, V2a scrap, nirosta, slightly contaminated",,,
+10024,"Kupferkabel, min. 55% Cu",Cables,"Copper Cable, min. 55% Cu",,,
+10166,Zinnbarren,Tin,Tin bars,3,,
+10150,Edelstahl - 1.4571,Stainless steel,Stainless steel - 1.4571,,,
+10019,"Alu-Draht, ohne FE",Aluminium,"Aluminium cable, no iron",3,,
+10200,Aluminium mit Bronze,Red brass,Aluminium with bronze,,,
+10181,"Electronic scrap, Analog Electric meter, Component, Cased in plastic",Electronics,Mix metal scrap,,,
+10218,Kupferspäne (Cu>95%),Copper,Copper turnings (Cu>95%),1,3,4
+10033,Kupfer-Erdkabel,Cables,Copper underground cables,,,
+10133,"Copper, MS58, Solids, Oxidized (rusted)",Yellow brass,Brass - contaminated,,,
+31021,Al-Cu Radiatoren (28%Cu),Aluminium,AlCu radiators (28%cu),3,,
+10161,Edelstahl - 1.4541,Stainless steel,Stainless steel - 1.4541,,,
+10180,Stromzähler - Digital,Electronics,Electricity meter - digital,,,
+10139,Module - Mixed Materials,Electronics,Modules - mixed materials,,,
+11027,PCB-Power Board,Electronics,PCB - power board,,,
+10111,Geschossblei,Lead,Bullet lead,,,
+10038,Katalysator XS,Aluminium,Catalytic Converter XS,3,,
+10017,Titan,Stainless steel,Titanium,,,
+10035,"Kupfer, verzinnt",Copper,"Copper, tin-plated",1,3,2
+30012,AlMg Bleche Blank (5000er),Aluminium,Aluminum scrap,3,,
+10004,Alu-Kabel 60%,Aluminium,Aluminium cable 60%,3,,
+10127,Kupfer Verhüttung,Copper,Copper casing,1,3,4
+10155,"Kupferkabel, min. 40% Cu",Cables,"Copper Cable, min. 40% Cu",,,
+10075,Kupfer-Schälkabel,Cables,Copper from sheathed cables,,,
+30029,"AlMgSi0,7 Profile Blank",Aluminium,AlMgSi0.7 blank profiles,3,,
+31074,Aluhülsen,Aluminium,Aluminium sleeve,3,,
+31082,"Copper, Copper chromium, Solids, Clean",Copper,CuCr1Zr (CW106C),1,1,4
+90003,Alu Kabel mit Cu Schirm,Cables,Alu cable with Cu screen,,,
+11055,Edelstahl - 1.4305,Stainless steel,Stainless - 1.4305,,,
+11056,Edelstahl - 1.4057,Stainless steel,Stainless steel - 1.4057,,,
+11057,Edelstahl - 1.4021,Stainless steel,Stainless steel - 1.4021,,,
+18023,"Kupfer, blank II, Kerze",Copper,"Bright copper, no 2, sparkplugs",1,2,4
+18024,"Kupfer, gemischt, Raff, alt",Copper,"Copper, miscellaneous, low-grade, old",1,2,4
+18022,"Kupfer schwer, Berry min. 98% Cu",Copper,"Heavy copper, berry min. 98% Cu",1,2,1
+18001,"Aluminium, Whrought Aluminium 6xxx series 1, Profile, Clean",Aluminium,"Aluminium profiles, bare (new)",3,,
+31002,"Copper, MS58, Solids, Oxidized (rusted)",Yellow brass,"Brass cocks and faucets, contaminated",,,
+18015,Aluspäne,Aluminium,Aluminium turnings,3,,
+18069,Rotguss-Späne,Red brass,Tombac turnings,,,
+18068,"Rotguss, stückig",Red brass,"Tombac, pieces",,,
+18002,"Aluminium, Whrought Aluminium 6xxx series 1, Profile, Lacquered",Aluminium,"Aluminium profiles, painted",3,,
+18031,"Kupferkabel, min. 70% Cu",Cables,"Copper Cable, min. 70% Cu",,,
+18013,"Aluguss, neu",Aluminium,"Cast aluminium, new",3,,
+18070,"Zinnschrott, Lötzinn",Tin,"Tin scrap, solder",3,,
+18065,Bleibatterien,Electronics,Lead batteries,,,
+18003,"Aluminium, gemischt",Aluminium,"Aluminium, miscellaneous",3,,
+18036,"Copper, Brass 1, Solids, Other contaminations",Yellow brass,"Brass, miscellaneous",,,
+18029,Kupferkabel mit Stecker,Cables,Copper cable with plug,,,
+18054,"CPU, Keramik, gemischt",CPU's,"CPU, ceramic, miscellaneous",3,,
+18052,"CPU, Kunststoff, gemischt",CPU's,"CPU, plastic, miscellaneous",3,,
+18053,"CPU, Kunststoff, behaftet",CPU's,"CPU, plastic, contaminated",3,,
+19468,Slot-CPUs,CPU's,Slot cpus,3,,
+18020,"Hartmetall,     gemischt",Tungsten carbide,"Tungsten carbide, miscellaneous",3,,
+18049,"Leiterplatten Klasse 1B, neu",PCBs,"Class 1B Circuit Boards, new",,,
+18046,Leiterplatten Klasse 2,PCBs,Class 2 circuit boards,,,
+18045,Leiterplatten Klasse 3,PCBs,Class 3 circuit boards,,,
+18014,"Aluguss, alt",Aluminium,"Cast aluminium, old",3,,
+18033,"Copper, Brass 1, Turnings, Clean",Yellow brass,"Brass turnings, miscellaneous",,,
+18043,"Gold, Smart phone, Electronics, Cased in plastic",Phones,"Mobiles, smartphones",,,
+18006,"Alublech, alt, färbig",Aluminium,"Aluminium sheet, old, painted",3,,3
+18048,RAM mit Silber-Kontakten,PCBs,RAM with silver contacts,,,
+18009,"Alu-Kühler, rein",Aluminium,"Aluminium-copper, clean",3,,
+18055,Laufwerke,Pc components,Disc drives,,,
+18056,Netzteile,Pc components,Power supplies,,,
+18008,"Alu-Kupfer-Kühler, behaftet",Aluminium,"Aluminium-copper radiator, contaminated",3,,
+18005,"Alublech, blank, neu",Aluminium,"Aluminium sheet, bare, new",3,,1
+18072,"Zinn, rein, min. 99%",Tin,"Tin, pure, min. 99%",3,,
+18007,"Alu-Kupfer-Kühler, rein",Aluminium,"Aluminium-copper radiator, clean",3,,
+18042,"Gold, Smart phone, Electronics, Cased in plastic",Phones,Mobile and smartphone circuit boards,,,
+18011,"Alufelgen, sauber",Aluminium,"Aluminium rims, clean",3,,
+31011,"Copper, MS58, Solids, Clean",Copper,"Fabric, miscellaneous (copper-brass)",2,2,4
+18012,"Alufelgen, behaftet",Aluminium,"Aluminium rims, contaminated",3,,
+18057,"PCs, unberaubt",Pc components,"PCs, unstripped",,,
+18059,"Elektronikschrott, gemischt",Electronics,"Electronic scrap, miscellaneous",,,
+18027,"Kupfer-Messing-Kühler, behaftet",Copper,"Copper-brass radiator, contaminated",2,2,4
+18058,Elektromotoren,Electronics,Electric motors,,,
+27733,Kleintrafos,Electronics,Small transformers,,,
+21649,Silberkontakte,Electronics,Silver contacts,,,
+18026,"Kupfer-Messing-Kühler, rein",Copper,"Copper-brass radiator, clean",2,1,4
+18074,"Zink, neu",Zinc,"Zinc, new",,,
+18064,Kabelschälblei,Lead,Cable sheath lead,,,
+21641,Alu-Offsetplatten,Aluminium,Aluminium offset plate,3,,
+18040,"Edelstahlspäne, Nirosta Späne",Stainless steel,"Stainless steel turnings, nirosta turnings",,,
+18051,RAM mit Gold-Kontakten,PCBs,RAM with gold contacts,,,
+19465,Festplatten,Pc components,Hard drives,,,
+18067,"Copper, MS58, Solids, Clean",Red brass,Copper alloy,,,
+18050,"Leiterplatten Klasse 1A, alt",PCBs,"Class 1A Circuit Boards, old",,,
+18062,"Auswuchtblei, Wuchtgewichte",Lead,"Lead wheel weights, balancing weights",,,
+18047,Server Backplanes,PCBs,Server backplanes,,,
+18018,"HSS, gemischt, Schnellarbeiterstahl",Tungsten carbide,"Hss, miscellaneous, high speed steel",3,,
+18010,"Alu-Kühler, behaftet",Aluminium,"Aluminium-copper, contaminated",3,,
+600000,"Aluminium, Whrought Aluminium 1100, Sheets, Lacquered",Aluminium,Aluminium license plates,3,,
+600001,"Iron, Miscellaneous steel, Solids, Clean",Iron and steel,Miscellaneous steel,3,,
+600033,"Iron, Stainless steel - 1.4404, Turnings, Clean",Stainless steel,"Stainless steel - 316 turnings, clean",,,
+600034,"Iron, Stainless steel - 1.4313, Solids, Clean",Iron and steel,"Stainless 1.4313 solids, clean",3,,
+600035,"Copper, Milberry 4, Solids, Other contaminations",Copper,"Cliff (>95% Cu) solids, unclean",1,2,1
+600036,"Aluminium, Cast Aluminium - 226, Turnings, Other contaminations",Aluminium,"Cast Aluminium 226 turnings, < 5% contamination",3,,
+600037,"Aluminium, Cast Aluminium - 226, Turnings, Clean",Aluminium,"Cast Aluminium 226, Turnings, clean",3,,
+600038,"Aluminium, Whrought Aluminium 2024 series, Turnings, Clean",Aluminium,"Wrought Aluminium 6010 turnings, clean",3,,
+600039,"Aluminium, Wrought Aluminium - 6060, Profile, Clean",Aluminium,"Wrought Aluminium 6060 profiles, clean",3,,
+600040,"Iron, Stainless steel - 1.4903, Solids, Clean",Stainless steel,"Stainless steel 1.4903, Solids, clean",,,
+600041,"Copper, Cupronickel, Solids, Clean",Copper,"Cupronickel solids, clean",1,1,4
+600042,"Copper, Brass 1, Turnings, Other contaminations",Yellow brass,Brass turnings miscellaneous,,,
+600044,"Aluminium, Cast Aluminium - AlSi7Mg, Turnings, Clean",Aluminium,Turnings AlSi7Mg,3,,
+600045,"Aluminium, Cast Aluminium - 99%, Sheets, Clean",Aluminium,Clean Sheets 99% Al.,3,,1
+600048,"Copper, MS58, Solids, Other contaminations",Yellow brass,Honeybrass,,,
+600049,"Aluminium, Whrought Aluminium 1050[45] series, Ingot, Cast iron coating",Aluminium,Aluminium 1050 clean ingots,3,,
+600050,"Iron, Stainless steel - 1.4404, Solids, Other contaminations",Stainless steel,V4A - Waste,,,
+600051,"Copper, MS58, Pipes, Clean",Yellow brass,Brass pipes (M58 alloy),,,
+600052,"Copper, Milberry 4, Solids, Incinerated",Copper,Cliff (No 2 heavy copper unclean),1,2,4
+600053,"Copper, MS63, Solids, Oxidized (rusted)",Yellow brass,MS63 Solids ols (oxidations),,,
+600054,"Copper, White brass, Solids, Clean",Yellow brass,White brass solids,,,
+600055,"Lead, Unalloyed Lead, Solids, Other contaminations",Lead,Pb dirty,,,
+600056,"Zinc, Pure Zinc, Sheets, Oxidized (rusted)",Zinc,Zinc sheets old,,,
+600057,"Aluminium, Whrought Aluminium 1050[45] series, Wire, Clean",Aluminium,Aluminium wire 1050 clean,3,,
+600058,"Aluminium, Whrought Aluminium 1050[45] series, Wire, Oxidized (rusted)",Aluminium,"Aluminium wire 1050, oxidated",3,,
+600059,"Copper, Milberry 2, Coil, Clean",Copper,"Copper tube coils, clean",1,1,3
+600060,"Copper, Milberry 1, Overhead cable, Lacquered",Copper,Copper lacquered overhead cables,1,3,1
+600061,"Copper, RG-5, Solids, Clean",Copper,"RG-5 gun metal, solids, clean",1,1,4
+600062,"Iron, Stainless steel - 1.4016, Solids, Other contaminations",Iron and steel,CrSt solids,3,,
+600063,"Iron, Stainless steel - 1.7225, Solids, Clean",Iron and steel,"Stainless steel 1.7225, solids, clean",3,,
+600064,"Iron, Pig Iron, Ingot, Clean",Iron and steel,Pig Iron,3,,
+600065,"Aluminium, Wrought Aluminium 5754, Solids, Clean",Aluminium,"Wrought Aluminium 5754 solids, clean",3,,
+600066,"Aluminium, Wrought Aluminium 1200, Wire, Clean",Aluminium,"Aluminium 1200 wire 99.5%, clean",3,,
+600067,"Iron, Stainless steel - 1.7380, Tubes, Clean",Stainless steel,"Stainless steel 1.7380 tubes, clean",,,
+600068,"Iron, Stainless steel - 1.7335, Tubes, Clean",Stainless steel,"Stainless steel - 1.7335, tubes, clean",,,
+600069,"Iron, Stainless steel - 1.7715, Tubes, Clean",Stainless steel,"Stainless steel - 1.7715, tubes, clean",,,
+600070,"Iron, Stainless steel - 1.4922, Tubes, Clean",Stainless steel,"Stainless steel - 1.4922, tubes, clean",,,
+600071,"Iron, Stainless steel 15MO3, Tubes, Clean",Stainless steel,"Stainless steel - 15MO3, tubes, clean",,,
+600072,"Copper, Soudronic, Wire, Clean",Cables,Soudronic wire,,,
+600073,"Stainless steel, Stainless - 1.4545, -, Clean",Stainless steel,Stainless steel - 1.4545,,,
+600043,"Alu Späne, gemischte 5% tol.",Aluminium,Al. Turnings mix 5% tol.,3,,
+600047,Twire,Aluminium,Twire - BURNT FRAGMENTIZER ALUMINUM SCRAP (from Automobile Shredders),3,,
+600074,"Aluminium, Whrought Aluminium 1020, Ingot, Clean",Aluminium,Aluminium P1020 Ingots,3,,
+600075,"Iron, E6, Packets, Clean",Iron and steel,Busheling,3,,
+600076,"Iron, 1.4501, Solids, Clean",Iron and steel,Duplex 1.4501,3,,
+600077,"Aluminium, Cast Aluminium - 99%, Granules, Clean",Aluminium,"Alu Granules 99,7%",3,,
+600078,"Aluminium, Cast Aluminium - 99%, Wire, Clean",Aluminium,"Alu, wire 99,7%",3,,
+600079,"Iron, Steel - 1.8928, Solids, Clean",Iron and steel,S690QL,3,,
+600080,"Aluminium, Wrought Aluminium - 6063, Profile, Clean",Aluminium,"Wrought Aluminium - 6063, profiles",3,,
+600081,"Aluminium, Mixed alloy, Solids, Clean",Aluminium,Mixed Aluminium alloy,3,,
+600082,"Lead, Unalloyed Lead, Granules, Lead Coating",Lead,shot lead,,,
+600083,"Aluminium, Wrought Aluminium - 6063, Billets, Clean",Aluminium,Alu 6063 - Billets,3,,
+600084,"Copper, Milberry 2, Battery, Clean",Copper,Clean copper foil,1,1,2
+600085,"Aluminium, Mixed alloy, Ingot, Clean",Aluminium,RSI Ingot,3,,
+600086,"Stainless steel, 1.4306, Pipes, Clean",Stainless steel,stainless steel 1.4306,,,
+600087,"Iron, Stainless steel - 1.4301, Sheets, Clean",Stainless steel,Stainless steel - 304 sheets,,,
+600088,"Iron, Stainless steel - 1.4016, Solids, Clean",Stainless steel,"Stainless steel - 1.4016, Solids",,,
+600089,"Iron, Stainless Steel - 1.4521, Solids, Clean",Stainless steel,Stainless Steel - 1.4521,,,
+600090,"Iron, Stainless steel - 1.4571, Sheets, Clean",Iron and steel,"Stainless steel - 1.4571, sheets",3,,1
+600091,"Iron, Stainless steel - 1.4301, Precisely chopped trimmings, Clean",Stainless steel,"Stainless steel - 1.4301, Precisely chopped trimmings",,,
+600092,"Electrical machines, Compressors, Machine, Other adhesions",Iron and steel,Iron and steel remeltable compressor scrap,3,,
+600093,"Aluminium, -, Profile, Other contaminations",Aluminium,Alu profiles mixed with iron 15%,3,,
+600094,"Copper, Whrought Aluminium 6262 series, Solids, Clean",Yellow brass,Aluminiumbronze,,,
+600095,"Copper, Phosphor bronze - CuSn12, Solids, Clean",Yellow brass,Gear Bronz,,,
+600096,"Copper, copper 99.9%, Wire, Lacquered",Copper,copper enamelled wire with paper,1,3,1
+600097,"Aluminium, Mixed alloy, Granules, Cased in Aluminium",Aluminium,ALU 70% +-5%  / REGRANULAT / SCHUPPEN,3,,
+600098,"Aluminium, Cast Aluminium - 226, Ingot, Clean",Aluminium,226 ingots,3,,
+600099,"Silver, Silver Bromide (AgBr), Sheets, Cased in plastic",,X-ray films,,,
+600100,"Iron, Stainless steel - 1.2080, Solids, Clean",Stainless steel,Stainless steel - 1.2080,,,
+600101,"Iron, Stainless steel - 1.2083, Solids, Clean",Stainless steel,Stainless steel - 1.2083,,,
+600102,"Aluminium, Wrought Aluminium 5754, Bailed, Clean",Aluminium,"AlMg3, Bails, Clean",3,,
+600103,"Aluminium, Whrought Aluminium 1050[45] series, Bailed, Clean",Aluminium,"Al99,5 Bails, Clean",3,,
+600104,"Aluminium, Wrought Alumunium 3005, Bailed, Clean",Aluminium,"AlMn1Mg0,5 Bailed, Clean",3,,
+600105,"Copper, Berry/Candy, Wire, Oxidized (rusted)",Copper,Berry/Candy,1,1,1
+600106,"Iron, Stainless steel - 1.4307, Solids, Clean",Stainless steel,Stainless steel 1.4307,,,
+600107,"Copper, Eco Brass , Turnings, Clean",Yellow brass,Eco Brass Turnings,,,
+600108,"Aluminium, Wrought Aluminium - 6060, Turnings, Clean",Aluminium,Aluminium 6060 turnings,3,,
+600109,"Copper, Miscellaneous copper, Bailed, Cased in Aluminium",Copper,Heat exchanger,1,2,4
+600110,"Stainless steel, Edelstahl - 1.3981, Punchings, Clean",Stainless steel,Stainless steel 1.3981,,,
+600111,"Copper, Milberry 3, Granules, Other contaminations",Copper,Copper Berry Granules,1,1,5
+600112,"Iron, E2+E8 Iron, Sheets, Clean",Iron and steel,E2 + E8 Iron Sheets,3,,2
+600113,"Aluminium, 5xxxer/6xxxer Mix, Sheets, Clean",Aluminium,5er/6er clean sheets,3,,1
+600114,"Tungsten, Hartmetall mit Fe, Solids, Clean",Tungsten carbide,Tungsten carbide with Iron,3,,
+600116,"Iron, FeCu18, Sheets, Copper plating",Iron and steel,Iron sheet with Cu Coating 18%,3,,3
+600117,"Aluminium, Whrought Aluminium 6082 series, Solids, Clean",Aluminium,Aluminium 6082 solids,3,,
+600118,"Aluminium, Pure aluminium, Sheets, Cased in paper",Aluminium,Aluminium offset plates with paper,3,,
+600119,"Copper, copper 99.9%, Granules Fine, Clean",Copper,"Fine Copper Granules 1a, 99.9%",1,1,5
+600120,"Copper, Brass 1, Punchings, Tin coating",Copper,Brass tin plated,2,3,2
+600121,"Copper, Brass 1, Solids, Clean",Copper,"Yellow Brass, Clean",2,1,4
+600122,"Copper, Phosphor bronze - CuSn12, Waste, Clean",Copper,Bronze,1,1,4
+600140,"Copper, Milberry 3, Solids, cased in zinc",Copper,Copper Zinc coated,1,3,4
+600142,"Copper, Milberry 3, Solids, cased in zinc",Copper,Copper Zinc coated,1,3,4
+600141,"Copper, Milberry 3, Solids, cased in zinc",Copper,Copper Zinc coated,1,3,4
+600143,"Nickel, Nickel Alloy, Waste, Clean",Stainless steel,Silverin400,,,
+600144,"Nickel, Silverin500, Waste, Clean",Stainless steel,Silverin500,,,
+600145,"Iron, FeNi18Cr12, Waste, Clean",Stainless steel,FeNi18Cr12,,,
+600146,"Iron, FeNi22Cr3, Waste, Clean",Stainless steel,FeNi22Cr3,,,
+600147,"Aluminium, 6111, Punchings, Clean",Aluminium,6111 alloy aluminium,3,,
+600148,"Iron, Cast Iron, Punchings, Cased in copper",Iron and steel,Copper-plated punch steel,3,,
+600149,"Iron, Steel - 1.8928, Punchings, Clean",Iron and steel,Low manganese punch steel (Steel - 1.8928),3,,
+600150,"Iron, Carbon steel, Punchings, Tin coating",Iron and steel,Tin-plated punch steel,3,,
+600152,"Iron, Old Scrap (E1) 1, Clippings, Clean",Iron and steel,Shear scrap E1,3,,
+600151,"Iron, Carbon steel, Punchings, Coated in Zinc",Iron and steel,Galvanized punch steel,3,,
+600153,"Iron, Stainless steel - 1.4016, Punchings, Clean",Iron and steel,17% chromium punch,3,,
+600155,"Copper, Berry/Candy, Punchings, Clean",Copper,Blank copper punchings,1,1,5
+600156,"Copper, Berry/Candy, Punchings, Coated in Tin",Copper,Tin-plated copper punchings,1,3,5
+600157,"Copper composites, Cu 2% Fe, Punchings, Clean",Copper,Copper punchings with 2% iron,1,1,5
+600158,"Copper composites, Cu 3% Fe, Punchings, Clean",Copper,Copper punchings with 3% iron,1,1,5
+600159,"Copper, Brass , Wire, Clean",Copper,Brass EDM Wire,1,1,1
+600185,"Iron, Stainless steel - 1.5231, Solids, Oxidized (rusted)",Stainless steel,Stainless steel - EN 1.5231,,,
+600184,"Iron, Stainless steel - 1.5231, Solids, Oxidized (rusted)",Iron and steel,Stainless steel - EN 1.5231,3,,
+600177,"Iron, Stainless steel - 1.6368, Solids, Oxidized (rusted)",Iron and steel,Stainless steel - EN 1.6368,3,,
+600186,"Copper, CuSn6 Bronze, Clippings, Clean",Red brass,Bronze CuSn6,,,
+600189,"Iron, Carbon steel, Punchings, Clean",Iron and steel,Low manganese punch steel (Carbon steel),3,,
+600187,"Copper, CuCrZr - C18150, Solids, Clean",Copper,CuCrZr - Copper-Chromium-Zirconium,1,1,4
+600188,"Iron, Manganese steel, Punchings, Clean",Iron and steel,High manganese punch steel (over 0.3%),3,,
+600191,"Copper, Ms85, Solids, Clean",Yellow brass,Ms85 brass alloy,,,
+600190,"Iron, MIscellaneous iron, Solids, Coated in Zinc",Iron and steel,Fe scrap galvanized,3,,
+600192,"Iron, Carbon steel, Punchings, Cased in copper",Iron and steel,"Steel Stamping scrap, copper coated PHC",3,,
+600193,"Copper, CuTeP, Solids, Clean",Copper,CuTeP - Low alloyed copper tellerium,1,1,4
+600194,"Iron, E2, Sheets, Cased in zinc",Iron and steel,Steel Sheets - Galvanized,3,,3
+600195,"Iron, E2+E8 Iron, Punchings, Laminated",Iron and steel,Production iron punchings (E2 / E8) Laminated,3,,
+600196,"Iron, Stainless steel 1.4006, Solids, Clean",Stainless steel,Stainless Steel 410,,,
+600197,"Iron, 1.5415, Pipes, Clean",Iron and steel,1.5415,3,,
+600198,"Iron, Low alloyed 1.6578, Solids, Clean",Iron and steel,low alloyed 1.6578,3,,
+600199,"Iron, Low alloyed shavings, Shavings, Clean",Iron and steel,Low alloyed shavings,3,,
+600200,"Copper, Berry - 99.8% Cu, Foil, Clean",Copper,Copper 99.8%,1,1,2
+600201,"Iron, Stainless steel - 1.4310, -, Clean",Stainless steel,Stainless steel 1.4310,,,
+600202,"Iron, Stainless steel - 1.1231, Solids, Clean",Stainless steel,Stainless Steel 1.1231,,,
+600203,"Iron, Stainless Steel - 15-7, Solids, Clean",Stainless steel,Stainless Steel 15-7,,,
+600204,"Iron, Stainless steel - 1.4404, Sheets, Clean",Stainless steel,Stainless steel 1.4404,,,
+600205,"Iron, Stainless steel 1.4401, -, Clean",Stainless steel,Stainless steel 1.4401,,,
+600206,"Iron, E2, Punchings, Clean",Iron and steel,Mix Dc01 and Dx51 punchings,3,,
+600207,"Aluminium, Mixed alloy, Component, Clean",Aluminium,Aluminium bulk scrap,3,,
+600208,"Aluminium, Mixed alloy, Component, Other adhesions",Aluminium,Aluminium Pistons,3,,
+600209,"Aluminium, Mixed alloy, Component, Cased in plastic",Aluminium,Aluminium with Rubber,3,,
+600210,"Iron, E2+E8 Iron, Punchings, Clean",Iron and steel,DC04 Punchings,3,,
+600211,"Copper, copper 99.9%, Rod , Clean",Copper,Copper Rod,1,1,2
+600212,"Aluminium, Whrought Aluminium 1050[45] series, Aerosol , Clean",Aluminium,"Aeorosole cans, clean",3,,
+600213,"Aluminium, Whrought Aluminium 1050[45] series, Aerosol , Lacquered",Aluminium,"Aerosol cans, painted",3,,
+600215,"Copper, copper 99.9%, Sheets, Clean",Copper,Cathode,1,1,2
+600216,"Aluminium, Whrought Aluminium 1050[45] series, Dust, Clean",Aluminium,Aluminium Dust,3,,
+600217,"Iron, Vascomax, Shavings, Clean",Stainless steel,Vascomax,,,
+600115,"Iron, FeCu18, Sheets, Copper plating",Iron and steel,Steel sheet with Cu Coating 18%,3,,3
+600214,"Aluminium, Cast Aluminium - 99%, Desox, Clean",Aluminium,Aluminium Deoxidant,3,,
+600218,"Iron, E8, Punchings, Clean",Iron and steel,Electrical Steel,3,,
+600219,"Copper, Milberry 1, Rod , Lacquered",Copper,Copper Busbars enameled,1,3,4
+600253,"Stainless steel, 1.4313, Briquettes, Clean",Stainless steel,1.4313 briquettes,,,
+600252,"Stainless steel, 1.4313, Shavings, Clean",Stainless steel,1.4313 shavings,,,
+600254,"Stainless steel, 1.4301, Ingot, Clean",Stainless steel,Stainless steel ingots,,,
+600255,"Iron, E2+E8 Iron, Punchings, Coated in Zinc",Iron and steel,"metal punching waste, galvanized, low manganese",3,,
+600256,"Iron, E2+E8 Iron, Punchings, Other contaminations",Iron and steel,Si punching waste/chipping scrap,3,,
+600257,"Copper, CuFe0,1, Punchings, Clean",Copper,"CuFe0,1",1,1,5
+600260,"Copper, CuFe 2P, Punchings, Silver plating",Copper,CuFe 2P clean - AG,1,3,5
+600258,"Copper, CuFe0,1, Punchings, Silver plating",Copper,"CuFe0,1 - AG",1,3,5
+600259,"Copper, CuFe 2P, Punchings, Clean",Copper,CuFe 2P clean,1,1,5
+600261,"Copper, Milberry 1, Punchings, Cast iron coating",Copper,ECU punching waste with FE,1,3,5
+600262,"Copper, copper 99.9%, Wire, Coated in Tin",Copper,"Copper hair wire, tinned",1,3,1
+600263,"Copper, Brass CuZn15, Solids, Clean",Yellow brass,Brass CuZn15,,,
+600264,"Iron, E8, Sheets, Coated in Zinc",Iron and steel,New galvanized sheets (iron scrap E8),3,,3
+600266,"Non-metal, Non-metal, Non-metal, Non-metallic attachments",,Container,,,
+600265,"Non-metal, Non-metal, Non-metal, Clean",,General Container,,,
+600268,"Iron, E2+E8 Iron, Punchings, Coated in Nickel",Iron and steel,Iron and Steel Punchings coated in Nickel,3,,
+600267,"Iron, E2, Punchings, Copper plating",Iron and steel,Iron Steel Coated in Copper,3,,
+600269,"Iron, MIscellaneous iron, Waste, Non-metallic attachments",Iron and steel,Mixed Scrap,3,,
+600270,"Copper, copper 99.9%, Busbars, Cased in plastic",Copper,Copper contacts,1,3,3
+600271,"Copper, MS63, Punchings, Cased in Tin",Yellow brass,MS63 tinned,,,
+600272,"Copper, CuFeP - C19210, Punchings, Clean",,CuFeP punchings clean,,,
+600273,"Aluminium, Aluminium 1370, Sheets, Clean",,Aluminium 1370,,,
+600274,"Non-metal, Non-metal, Non-metal, Wood",,Wood,,,
+30020,Rein-Alu Bleche Beschichtet (1000er),Aluminium,,3,,
+31076,"Edelstahl, V2A - Pakete",Stainless steel,,,,
+32220,Aluminium Späne Bricketts (7000er),Aluminium,,3,,
+18017,Hartmetall Wendeschneidplatten,Tungsten carbide,,3,,
+18019,Hartmetall Bohrer und Fräser,Tungsten carbide,,3,,
+31004,Aluminiumbronze,Aluminium,,3,,
+31020,Zusatzmenge,Copper,,1,3,4
